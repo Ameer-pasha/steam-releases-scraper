@@ -11,6 +11,7 @@ Steam is one of the largest digital game platforms. If you want to:
 
 ...this scraper provides all the data in a structured, ready-to-use format.
 
+
 ## Features ✨
 
 ### Popular Releases Scraper
