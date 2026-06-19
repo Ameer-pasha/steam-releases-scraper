@@ -4,6 +4,7 @@ A **Python-based web scraper** that automatically collects **Popular Releases** 
 
 ## Why This Project? 🎯
 
+
 Steam is one of the largest digital game platforms. If you want to:
 - Analyze the most played games  
 - Track hot releases and their ratings  
